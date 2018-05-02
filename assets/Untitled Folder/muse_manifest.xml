@@ -1,0 +1,35 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SAVEMOMMA.COM" resolutions="1x" timestamp="1525172762738">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="153259847" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="shape.png" crc="4028174487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u97-4.png" crc="358832085" ref="index"/>
+    <file name="u106-4.png" crc="3758975845" ref="index"/>
+    <file name="asset 5.jpg" crc="183993612" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u214-4.png" crc="257068624" ref="index"/>
+    <file name="u213-4.png" crc="3827435248" ref="index"/>
+    <file name="u228-4.png" crc="422982000" ref="index"/>
+    <file name="u231-4.png" crc="70119989" ref="index"/>
+    <file name="u240-4.png" crc="508190790" ref="index"/>
+    <file name="u250-4.png" crc="431216583" ref="index"/>
+    <file name="logout.png" crc="3901445435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4184132500" seo="true" mt="1525172724217" redirect="true"/>
+</manifest>
